@@ -1,3 +1,4 @@
+<img width="736" height="403" alt=" -3" src="https://github.com/user-attachments/assets/5fe11fc1-2c88-4ea8-bca7-3b7431c2a65b" />
 # My Salon Website
 
 ## Welcome
